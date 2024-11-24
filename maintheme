@@ -1,0 +1,28 @@
+/frontend
+  /src
+    /components
+      - Navbar.js
+      - ExpenseList.js
+      - AddExpense.js
+    /pages
+      - Home.js
+      - Login.js
+      - Register.js
+      - Dashboard.js
+    /utils
+      - api.js
+    App.js
+    index.js
+/backend
+  /models
+    - User.js
+    - Expense.js
+  /routes
+    - userRoutes.js
+    - expenseRoutes.js
+  /controllers
+    - userController.js
+    - expenseController.js
+  /middlewares
+    - authMiddleware.js
+  server.js
