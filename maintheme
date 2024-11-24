@@ -9,10 +9,13 @@
       - Login.js
       - Register.js
       - Dashboard.js
-    /utils
-      - api.js
+    /styles
+      - App.css
+      - Navbar.css
+      - Forms.css
     App.js
     index.js
+
 /backend
   /models
     - User.js
